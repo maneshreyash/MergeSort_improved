@@ -1,6 +1,15 @@
-/** Sample starter code for SP9.
- *  @author
+/**
+ SP9
+ Group Number: SP 47
+ Team Members:
+ Shruti Jaiswal (sxj170027)
+ Shreyash Mane (ssm170730)
+
+ Project Description:
+ Implemented improved takes on merge sort to make use of Insertion sort below a certain threshold to reduce the number of recursions since insertion sort performs pretty good for lower number of elements during sorting.
+
  */
+
 
 package ssm170730;
 import java.util.Random;
